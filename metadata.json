@@ -1,0 +1,8 @@
+{
+  "name": "美食地圖",
+  "description": "由 Gemini 驅動的個人美食地圖日記。搜尋餐廳、收藏地點，並記錄帶有評分、筆記和照片的打卡紀錄。",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
